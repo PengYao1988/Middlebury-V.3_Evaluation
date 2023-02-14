@@ -4,3 +4,4 @@ Both the zip files are used for evaluating Middlebury v.3 stereo datasets. 'Eval
 
 Usage:
 Unzip the file to 'D:\\', then your can run it for evaluating.
+This code could also used for evaluating Middlebury 2021 Stereo Data Sets.
